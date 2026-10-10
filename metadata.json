@@ -1,0 +1,6 @@
+{
+  "name": "TRACKMATRIX",
+  "description": "High-performance dispatch matrix, fleet tracking, and real-time order coordination system for main admins, sub-admins, and customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
